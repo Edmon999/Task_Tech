@@ -1,0 +1,23 @@
+.card-wrapper {
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.card-image {
+  width: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  background-color: blanchedalmond;
+}
+
+.card-contact {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px;
+}

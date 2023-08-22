@@ -1,0 +1,18 @@
+.tab-container {
+  display: flex;
+}
+
+.tab-view {
+  padding: 10px 20px;
+  margin-right: 10px;
+  background-color: transparent;
+  color: #000;
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tab-view.active {
+  background-color: #007bff;
+  color: #fff;
+}
